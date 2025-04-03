@@ -27,6 +27,12 @@ This component is developed by th using Fast.<br>This component is designed to f
 
 ![demo_3.png](https://github.com/user-attachments/assets/51263a33-6201-415e-bd56-3456cd81dfee)
 
+![80821d3b-54d6-4bf6-82dd-0b0482139aa9.gif](https://github.com/user-attachments/assets/6ffc9397-9e6e-4688-ae93-ef8feec85bd9)
+
+![c263eac5-440c-4034-a049-487fdd47045a.gif](https://github.com/user-attachments/assets/57171785-2f00-4569-bc04-551a752d05e4)
+
+![3c87950e-425f-434b-952b-0a182b41b326.gif](https://github.com/user-attachments/assets/31a4808d-73db-4abf-8d63-204d708a05d9)
+
 
 
 ## Blocks
