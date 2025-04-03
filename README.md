@@ -21,6 +21,8 @@ This component is developed by th using Fast.<br>This component is designed to f
 
 ## Demo
 
+![blocks](https://github.com/user-attachments/assets/487f1323-ed4e-4adb-b870-943226e411b6)
+
 
 ## Blocks
 
