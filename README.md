@@ -23,6 +23,11 @@ This component is developed by th using Fast.<br>This component is designed to f
 
 ![blocks](https://github.com/user-attachments/assets/487f1323-ed4e-4adb-b870-943226e411b6)
 
+![demo_2.png](https://github.com/user-attachments/assets/2ba23697-9a9e-4f1f-acff-2ca04ebc0a46)
+
+![demo_3.png](https://github.com/user-attachments/assets/51263a33-6201-415e-bd56-3456cd81dfee)
+
+
 
 ## Blocks
 
